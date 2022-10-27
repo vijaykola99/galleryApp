@@ -1,0 +1,9 @@
+.no-opacity {
+  margin-right: 5px;
+  cursor: pointer;
+}
+.with-opacity {
+  opacity: 0.5;
+  margin-right: 5px;
+  cursor: pointer;
+}
